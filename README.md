@@ -1,4 +1,4 @@
-To run the modular, multi-file version of the project you just implemented, follow these steps on your VS Code.
+To run the modular, multi-file version of the project you just implemented, follow these steps on your VS Code
 
 ### Step 1: Create the Project Folder
 
