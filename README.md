@@ -18,7 +18,7 @@ In the terminal, make sure you are in the folder where your files are, then run:
 python main.py
 ```
 
-### Step 5: How to Play
+### Step 3: How to Play
 
 1.  **The Menu:** The game will start with a black screen with text options.
       * Press **`1`** on your keyboard for **Human vs AI**.
