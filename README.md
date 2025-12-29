@@ -5,6 +5,8 @@ To run the modular, multi-file version of the project you just implemented, foll
 You need the `pygame` and `numpy` libraries. Open the VS Code terminal (Control + `~`) and run:
 
 ```bash
+python3 -m venv venv
+
 pip install pygame numpy
 ```
 
